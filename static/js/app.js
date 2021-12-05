@@ -1,7 +1,7 @@
 
 
 
-d3.json("https://github.com/shealey2/Plotly-SPH/samples.json").then(function(data) {
+d3.json("https://github.com/saadandalib/Plot.ly-challenge/samples.json").then(function(data) {
 
     console.log(data);
   });
